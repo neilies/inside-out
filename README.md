@@ -2,9 +2,13 @@
 
 Inside Out is an Android application (optimised for tablet) that enriches the collection of a newly opened science museum through contextual interaction with its artefacts. Without requiring the need for specially designed exhibitions, the application makes use of augmented reality and proximity technologies such as beacons to provide an enhanced experience with the museum's collection.
 
-## Getting Started
+## Intro
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The application is a part of an assignment for the MSc Interaction Design programme from Tallinn University and Cyprus University of Technology.
+
+## Application documentation
+
+For more detailed information on the features, functionalities, and different interactions (with examples) - please refer to the <a href="https://github.com/neilies/inside-out/wiki">Wiki pages for this repository</a>.
 
 ### Prerequisites
 
@@ -18,11 +22,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Axure](http://www.axure.com) - Axure prototyping tool
+* [Android](http://www.android.com) - Android operating system
+* [Form](http://relativewave.com/form/) - preliminary protyping tool
 
-## Contributing
 
 ## Versioning
 
@@ -36,25 +39,5 @@ We use [GitHub repository](https://github.com/neilies/inside-out) for versioning
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the [FreeBSD](https://www.freebsd.org/copyright/freebsd-license.html) License.
 
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
-
-
-
-
-
-
-# inside-out
-
-
-
-
-A prototype for the application will be devloped using a visual programming tool, of which will be decided in due course. 
-
-For more detailed information on the features, functionalities, and different interactions (with examples) - please refer to the <a href="https://github.com/neilies/inside-out/wiki">Wiki pages for this repository</a>.
