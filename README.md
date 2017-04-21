@@ -34,7 +34,7 @@ We use [GitHub repository](https://github.com/neilies/inside-out) for versioning
 ## Authors
 
 * **Tomasz Skórski** - *Co-author* - [website](http://skorski.net)
-* **Neil Bates** - *Co-author* - website(https://www.linkedin.com/in/neilgbates?ppe=1)
+* **Neil Bates** - *Co-author* - [website](https://www.linkedin.com/in/neilgbates)
 
 ## License
 
