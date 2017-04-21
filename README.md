@@ -29,13 +29,12 @@ For more detailed information on the features, functionalities, and different in
 
 ## Versioning
 
-We use [GitHub repository](https://github.com/neilies/inside-out) for versioning any new major releases (aka version) of our software.
+We use [GitHub repository](https://github.com/neilies/inside-out) for versioning any new major releases (aka version) of our prototype.
 
 ## Authors
 
-* **Tomasz Skórski** - *Co-author* - [PurpleBooth](http://skorski.net)
-* **Neil Bates** - *Co-author* - [PurpleBooth](http://skorski.net)
-
+* **Tomasz Skórski** - *Co-author* - [website](http://skorski.net)
+* **Neil Bates** - *Co-author* - website(https://www.linkedin.com/in/neilgbates?ppe=1)
 
 ## License
 
